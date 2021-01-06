@@ -1,3 +1,3 @@
 # Example-Company-Site
 
-[View Live](https://ezraelette.github.io/Example-Company-Site/index.html)
+[View Live](https://ezraelette.github.io/Example-Company-Site/home.html)
